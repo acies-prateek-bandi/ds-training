@@ -36,7 +36,7 @@ loggers:
   kedro:
     level: INFO
 
-  pyspark_viz_spaceflights:
+  predictive_modeling:
     level: INFO
 
 root:
